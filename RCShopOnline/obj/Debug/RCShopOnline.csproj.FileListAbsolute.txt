@@ -1,0 +1,150 @@
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\obj\Debug\RCShopOnline.csprojAssemblyReference.cache
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\obj\Debug\RCShopOnline.csproj.CoreCompileInputs.cache
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\RCShopOnline.dll.config
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\RCShopOnline.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\RCShopOnline.pdb
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\csc.exe
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\csc.exe.config
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\csc.rsp
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\csi.exe
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\csi.exe.config
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\csi.rsp
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.AppContext.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Console.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.IO.Compression.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.IO.FileSystem.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.IO.Pipes.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.AccessControl.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Claims.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.ValueTuple.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Xml.XPath.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\vbc.exe
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\vbc.exe.config
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\vbc.rsp
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Antlr3.Runtime.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\AspNet.ScriptManager.jQuery.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\EntityFramework.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\EntityFramework.SqlServer.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Newtonsoft.Json.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\System.Web.Optimization.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\WebGrease.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\EntityFramework.xml
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\EntityFramework.SqlServer.xml
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\System.Web.Optimization.xml
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Newtonsoft.Json.xml
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Antlr3.Runtime.pdb
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\obj\Debug\RCShopOnline.csproj.CopyComplete
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\obj\Debug\RCShopOnline.dll
+E:\Thiet ke website thuong mai Phần 1\RCShopOnline\RCShopOnline\obj\Debug\RCShopOnline.pdb
+E:\RCShopOnline\RCShopOnline\bin\RCShopOnline.dll.config
+E:\RCShopOnline\RCShopOnline\bin\RCShopOnline.dll
+E:\RCShopOnline\RCShopOnline\bin\RCShopOnline.pdb
+E:\RCShopOnline\RCShopOnline\bin\roslyn\csc.exe
+E:\RCShopOnline\RCShopOnline\bin\roslyn\csc.exe.config
+E:\RCShopOnline\RCShopOnline\bin\roslyn\csc.rsp
+E:\RCShopOnline\RCShopOnline\bin\roslyn\csi.exe
+E:\RCShopOnline\RCShopOnline\bin\roslyn\csi.exe.config
+E:\RCShopOnline\RCShopOnline\bin\roslyn\csi.rsp
+E:\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+E:\RCShopOnline\RCShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.AppContext.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Console.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.IO.Compression.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.IO.FileSystem.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.IO.Pipes.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.AccessControl.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Claims.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Security.Principal.Windows.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.ValueTuple.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Xml.XmlDocument.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Xml.XPath.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\RCShopOnline\RCShopOnline\bin\roslyn\vbc.exe
+E:\RCShopOnline\RCShopOnline\bin\roslyn\vbc.exe.config
+E:\RCShopOnline\RCShopOnline\bin\roslyn\vbc.rsp
+E:\RCShopOnline\RCShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\RCShopOnline\RCShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\RCShopOnline\RCShopOnline\bin\Antlr3.Runtime.dll
+E:\RCShopOnline\RCShopOnline\bin\AspNet.ScriptManager.bootstrap.dll
+E:\RCShopOnline\RCShopOnline\bin\AspNet.ScriptManager.jQuery.dll
+E:\RCShopOnline\RCShopOnline\bin\EntityFramework.dll
+E:\RCShopOnline\RCShopOnline\bin\EntityFramework.SqlServer.dll
+E:\RCShopOnline\RCShopOnline\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\RCShopOnline\RCShopOnline\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\RCShopOnline\RCShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\RCShopOnline\RCShopOnline\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\RCShopOnline\RCShopOnline\bin\Microsoft.ScriptManager.WebForms.dll
+E:\RCShopOnline\RCShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\RCShopOnline\RCShopOnline\bin\Newtonsoft.Json.dll
+E:\RCShopOnline\RCShopOnline\bin\System.Web.Optimization.dll
+E:\RCShopOnline\RCShopOnline\bin\WebGrease.dll
+E:\RCShopOnline\RCShopOnline\bin\EntityFramework.xml
+E:\RCShopOnline\RCShopOnline\bin\EntityFramework.SqlServer.xml
+E:\RCShopOnline\RCShopOnline\bin\System.Web.Optimization.xml
+E:\RCShopOnline\RCShopOnline\bin\Newtonsoft.Json.xml
+E:\RCShopOnline\RCShopOnline\bin\Antlr3.Runtime.pdb
+E:\RCShopOnline\RCShopOnline\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\RCShopOnline\RCShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\RCShopOnline\RCShopOnline\obj\Debug\RCShopOnline.csprojAssemblyReference.cache
+E:\RCShopOnline\RCShopOnline\obj\Debug\RCShopOnline.csproj.CoreCompileInputs.cache
+E:\RCShopOnline\RCShopOnline\obj\Debug\RCShopOnline.csproj.CopyComplete
+E:\RCShopOnline\RCShopOnline\obj\Debug\RCShopOnline.dll
+E:\RCShopOnline\RCShopOnline\obj\Debug\RCShopOnline.pdb
