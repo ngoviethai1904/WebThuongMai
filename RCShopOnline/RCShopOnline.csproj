@@ -132,6 +132,12 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Images\Car.jpg" />
+    <Content Include="Images\Car1.jpg" />
+    <Content Include="Images\Car2.jpg" />
+    <Content Include="Images\Car3.jpg" />
+    <Content Include="Images\Car4.jpg" />
+    <Content Include="Images\Car5.jpg" />
     <Content Include="Images\truck.jpg" />
     <Content Include="Images\truck1.jpg" />
     <Content Include="Images\truck2.jpg" />

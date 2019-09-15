@@ -21,22 +21,27 @@ namespace RCShopOnline.Models
                 new Category
                 {
                     CategoryID = 1,
-                    CategoryName = "OnRoad"
+                    CategoryName = "Xe điều khiển từ xa chạy bằng pin"
                 },
                 new Category
                 {
                     CategoryID = 2,
-                    CategoryName = "OffRoad"
+                    CategoryName = "Xe điều khiển từ xa chạy xăng nitro"
                 },
                 new Category
                 {
                     CategoryID = 3,
-                    CategoryName = "Adventure"
+                    CategoryName = " Xe điều khiển từ xa vượt địa hình"
                 },
                 new Category
                 {
                     CategoryID = 4,
-                    CategoryName = "Racing"
+                    CategoryName = "Xe điều khiển từ xa tốc độ cao"
+                },
+                new Category
+                {
+                     CategoryID = 5,
+                     CategoryName = "Xe điều khiển từ xa RC"
                 }
             };
             return categories;
@@ -48,47 +53,56 @@ namespace RCShopOnline.Models
                 new RC
                 {
                     RCID = 1,
-                    RCName = "Truck",
-                    Description = "Xe tải nhỏ",
-                    ImagePath="truck1.jpg",
+                    RCName = "RC Car",
+                    Description = "Xe con chạy pin",
+                    ImagePath="Car.jpg",
                     UnitPrice = 179.79f,
                     CategoryID = 1
                 },
                 new RC
                 {
                     RCID = 2,
-                    RCName = "Monster Truck",
-                    Description = "Xe tải đua",
-                    ImagePath="truck2.jpg",
+                    RCName = "RC Car Nitro",
+                    Description = "Xe chạy nitro",
+                    ImagePath="Car1.jpg",
                     UnitPrice = 169.69f,
                     CategoryID = 2
                 },
                 new RC
                 {
                     RCID = 3,
-                    RCName = "Car",
-                    Description = "Xe con",
-                    ImagePath="truck3.jpg",
+                    RCName = "RC Car Nitro 2",
+                    Description = "Xe chạy nitro",
+                    ImagePath="Car2.jpg",
                     UnitPrice = 168.68f,
                     CategoryID = 2
                 },
                 new RC
                 {
                     RCID = 4,
-                    RCName = "Pick up",
-                    Description = "Xe bán tải",
-                    ImagePath="truck4.jpg",
+                    RCName = "RC Car over terrain",
+                    Description = "Xe vượt địa hình",
+                    ImagePath="Car3.jpg",
                     UnitPrice = 196.96f,
                     CategoryID = 3
                 },
                 new RC
                 {
                     RCID = 5,
-                    RCName = "Cranes",
-                    Description = "Xe cần cẩu",
-                    ImagePath="truck5.jpg",
+                    RCName = "RC Car high speed remote control",
+                    Description = "Xe chạy tốc độ cao",
+                    ImagePath="Car4.jpg",
                     UnitPrice = 119.19f,
                     CategoryID = 4
+                },
+                new RC
+                {
+                    RCID = 6,
+                    RCName = "RC Car remote control",
+                    Description = "Xe điều khiển",
+                    ImagePath= "Car5.jpg",
+                    UnitPrice = 140.40f,
+                    CategoryID = 5
                 },
             };
             return RCs;

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="RCShopOnline.Contact" %>
+﻿<%@ Page Title="Liên hệ" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="RCShopOnline.Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %></h2>
@@ -10,9 +10,8 @@
         <abbr title="Phone"></abbr>
         0343191276
     </address>
-
     <address>
-        <strong>Facebook:</strong>   <a href="mailto:Support@example.com">My facebook</a><br />
-        <strong>Youtube:</strong> <a href="mailto:Marketing@example.com">My channel</a>
+        <strong>Facebook:</strong><a href="https://www.facebook.com/ngoviethai55kttt">My facebook</a><br />
+        <strong>Youtube:</strong> <a href="https://www.youtube.com/channel/UCI8rC_86GHb9RXPCBzmPO4w?view_as=subscriber">My channel</a>
     </address>
 </asp:Content>
