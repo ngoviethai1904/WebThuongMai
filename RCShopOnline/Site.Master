@@ -55,6 +55,7 @@
                         <li><a runat="server" href="~/About">Thông tin</a></li>
                         <li><a runat="server" href="~/Contact">Liên hệ</a></li>
                         <li><a runat="server" href="~/RCList">RC</a></li>
+                        <li><a runat="server" href="~/ShoppingCart" ID="cartCount">&nbsp;</a></li>
                     </ul>
                 </div>
             </div>

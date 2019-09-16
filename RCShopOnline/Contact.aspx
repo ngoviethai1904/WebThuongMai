@@ -6,6 +6,7 @@
     <address>
         Ngô Việt Hải<br/>
         CTT11CD3A<br/>
+        Khoa Điện-Điện tử<br/>
         Trường cao đẳng KTCN Nha Trang<br/>
         <abbr title="Phone"></abbr>
         0343191276
