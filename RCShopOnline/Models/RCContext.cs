@@ -9,8 +9,10 @@ namespace RCShopOnline.Models
 {
     public class RCContext: DbContext
     {
-        public RCContext(): base("RCShopOnline") { }
+        public RCContext(): base("RCShopOnline")
+        { }
         public DbSet<Category> Categories { get; set; }
         public DbSet<RC> RCs { get; set; }
+        public DbSet<CartItem> ShoppingCartItems { get; set; }
     }
 }
