@@ -11,13 +11,13 @@ Giao diện tương thích với nhiều màn hình khác nhau: như smartphone,
 </br>
 <img src="rc1.PNG" width="700px"/>
 </br>
-Phần thông tin giới thiệu RC là gì.
+Phần thông tin giới thiệu RC là gì
 <img src="inf2.png" width="700px">
 </br>
 Phần liên hệ.
 <img src="inf3.png" width="700px">
 </br>
-Phần tổng hợp các loại dòng xe ưa thích hiện nay.
+Phần tổng hợp các loại dòng xe ưa thích hiện nay
 <img src="typecar1.png" width="700px">
 </br>
 <img src="typecar2.png" width="700px">
