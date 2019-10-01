@@ -29,3 +29,11 @@ Phần chi tiết của dòng xe
 Phần giỏ hàng khi bạn mua hàng hiển thị rõ chi tiết và giá tiền tổng giá trị món hàng bạn mua
 </br>
 <img src="cart.png" width="700px">
+</br>
+Phần cơ sở dữ liệu 
+</br>
+<img src="Category.PNG" width="700px">
+</br>
+<img src="RCShop.PNG" width="700px">
+</br>
+<img src="DatabaseDiagrams.PNG" width="700px">
